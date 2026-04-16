@@ -6,7 +6,7 @@ This project is an interactive, enterprise-grade financial monitoring dashboard 
 ## 📸 Dashboard Preview
 
 > **Note:** Watch the full interactive video demo here:
-> **[PASTE YOUR VIDEO DEMO LINK HERE]**
+> **[<financial dashboard.mp4>]**
 
 ![Final Dashboard Layout](<Executive Financial Performance Dashboard.pdf>)
 

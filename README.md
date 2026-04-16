@@ -8,7 +8,7 @@ This project is an interactive, enterprise-grade financial monitoring dashboard 
 > **Note:** Watch the full interactive video demo here:
 > **[PASTE YOUR VIDEO DEMO LINK HERE]**
 
-![Final Dashboard Layout](PASTE YOUR DASHBOARD SCREENSHOT LINK HERE)
+![Final Dashboard Layout](<Executive Financial Performance Dashboard.pdf>)
 
 ## 🎯 Business Value & Objectives
 The primary goal of this dashboard is to make complex financial insights accessible to management anywhere, instantly. 

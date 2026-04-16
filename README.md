@@ -2,7 +2,8 @@
 
 https://github.com/user-attachments/assets/1559df9e-74cb-4f4e-85ee-3042e6ba6fde
 
-# Executive Financial Performance Dashboard
+# Executive Financial Performance Dashboard[Executive Financial Performance Dashboard.pdf](https://github.com/user-attachments/files/26780998/Executive.Financial.Performance.Dashboard.pdf)
+
 
 ## 📊 Project Overview
 This project is an interactive, enterprise-grade financial monitoring dashboard built in Power BI. It is designed to provide a single-view financial performance summary for management and stakeholders, transforming raw daily transaction data into actionable, high-level business intelligence.

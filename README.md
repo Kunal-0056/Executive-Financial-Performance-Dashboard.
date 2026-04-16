@@ -39,7 +39,7 @@ By utilizing advanced DAX modeling and AI-driven analytics, this tool allows exe
 * **AI Analytics:** Overcame native Power BI continuous/categorical axis limitations by deploying a side-by-side visual strategy to satisfy both Forecasting and Anomaly data requirements.
 
 ## 📂 How to Use This Repository
-1. Download the `Financial_Dashboard.pbix` file.
+1. Download the `kk.pbix` file.
 2. Open the file in **Power BI Desktop**.
 3. Use the Slicers in the top right corner to interact with the data and see the metrics recalculate in real-time.
 4. For a quick static review, download the included `Dashboard_Report.pdf`.
